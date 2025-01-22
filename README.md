@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/HupOpsVitor/appflex)
+![GitHub License](https://img.shields.io/github/license/HubOpsVitor/appflex)
 
 
 # appflex
